@@ -9,14 +9,15 @@ A. Using Virtual Environment (envhafizmrf3)
   4. Enable the environment by typing the command 'envhafizmrf3\scripts\activate.bat' 
   5. Running the file by typing the command 'python menumetode.py'. The desktop application will run correctly.
 
-Exit the Environment:
--Type ' deactivate ' in your terminal (CMD).
+  Exit the Environment:
+  - Type ' deactivate ' in your terminal (CMD).
 
 
 
 
 
-BAHASA INDONESIA 
+<b>in BAHASA INDONESIA</b> 
+
 Running App :
 
 A. Menggunakan Virtual Environment (envhafizmrf3)
@@ -27,6 +28,6 @@ A. Menggunakan Virtual Environment (envhafizmrf3)
   4. Aktifkan environment dengan mengetik perintah 'envhafizmrf3\scripts\activate.bat' 
   5. Running file dengan mengetik perintah 'python menumetode.py'. Aplikasi desktop akan berjalan dengan benar.
 
-Keluar dari environment :
-- Ketik 'deactivate' pada terminal anda (CMD).
+  Keluar dari environment :
+  - Ketik 'deactivate' pada terminal anda (CMD).
 
