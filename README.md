@@ -1,7 +1,17 @@
 # Hierarchical Clustering Desktop App
+
+In this project, You'll need to install these python libraries :
+<b>
+- pip install pandas
+- pip install numpy
+- pip install matplotlib
+- pip install tkinter
+</b>
+
+
 Running App:
 
-A. Using Virtual Environment (envhafizmrf3)
+A. Using Virtual Environment (I assume you have created a v-environment with Python 3.7, I named my v-env as 'envhafizmrf3' and already to    use)
   1. Change SourceCode lines 25, 51, 78, 104, and 130 for the location of the Shopping_data.csv file to your directory.
      Ex: 'H:/TGS_CLUSTERING/Hierarchicalmethod/shopping_data.csv'    to   'D:/TGS_CLUSTERING/Hierarchicalmethod/shopping_data.csv'
   2. Open your terminal (CMD).
