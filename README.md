@@ -23,3 +23,7 @@ I assume you've created a V-Env with Python 3.7, I named my V-Env as 'envhafizmr
 
   Exit the Environment:
   - Type <b>'deactivate'</b> in your terminal.
+  
+  
+### 1. Minimum Distance (Single Link)
+![alt_text](https://github.com/hafizmrf3/HierarchicalClusteringApp/blob/master/1-MinimumDistance(Single%20Link).PNG)
