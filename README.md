@@ -27,3 +27,11 @@ I assume you've created a V-Env with Python 3.7, I named my V-Env as 'envhafizmr
   
 ### 1. Minimum Distance (Single Link)
 ![alt_text](https://github.com/hafizmrf3/HierarchicalClusteringApp/blob/master/1-MinimumDistance(Single%20Link).PNG)
+### 2. Maximum Distance (Multi Link)
+![alt_text](https://github.com/hafizmrf3/HierarchicalClusteringApp/blob/master/2-MaximumDistance(Multi%20Link).PNG)
+### 3. Mean Distance (Centroid)
+![alt_text](https://github.com/hafizmrf3/HierarchicalClusteringApp/blob/master/3-MeanDistance(Centroid).PNG)
+### 4. Average Distance (Group Average)
+![alt_text](https://github.com/hafizmrf3/HierarchicalClusteringApp/blob/master/4-AverageDistance(Group%20Average).PNG)
+### 5. Sum of Squares Error (Ward's Method)
+![alt_text](https://github.com/hafizmrf3/HierarchicalClusteringApp/blob/master/5-SSE(Ward'sMethod).PNG)
